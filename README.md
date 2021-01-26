@@ -1,5 +1,16 @@
 # creditok-bookshelf
 
+====Complete===
+Search book from google API
+Book Info
+
+====Developing===
+Add to favorite
+Random List
+Category
+Sorting
+Ads
+
 ## Project setup
 ```
 npm install
@@ -7,7 +18,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run dev
 ```
 
 ### Compiles and minifies for production
