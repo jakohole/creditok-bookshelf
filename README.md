@@ -1,16 +1,5 @@
 # creditok-bookshelf
 
-====Complete===
-Search book from google API
-Book Info
-
-====Developing===
-Add to favorite
-Random List
-Category
-Sorting
-Ads
-
 ## Project setup
 ```
 npm install
